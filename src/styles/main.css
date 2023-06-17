@@ -1,0 +1,71 @@
+.table-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.icon {
+    font-size: 100px;
+}
+
+.message {
+    padding: 10% 10px;
+    text-align: center;
+}
+
+.message-content {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.table-content {
+    width: 700px;
+}
+
+.admin-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.buttons-container {
+    padding: 20px;
+    width: 550px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-button {
+    font-size: 40px;
+}
+
+
+.table-content > div {
+    padding: 20px;
+    font-weight: bold;
+}
+
+.back-container {
+    padding: 20px;
+}
+
+.form-container {
+    margin: 0 20%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 1px #000;
+}
+
+
